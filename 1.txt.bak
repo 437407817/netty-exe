@@ -1,0 +1,3 @@
+com.wmap.java:netty-http:jar:0.0.1-SNAPSHOT
++- junit:junit:jar:3.8.1:test
+\- io.netty:netty-all:jar:4.1.32.Final:compile
